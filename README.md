@@ -33,13 +33,15 @@ From Imdb, I obtained data on average ratings, runtime and genres
 
 I combined the data into a dataframe (combined_movies_data) and utilised its copy for analysis. 
 
-#Conclusions.
+# Conclusions.
 From the analysis, the a number of conclusions can be made based on the leading questions.
 
 - The best rated genre is Drama and Action,Adventure,Sci-Fi.
 ![Best Rated genred](https://user-images.githubusercontent.com/128227310/232332499-ff62695e-50b5-4472-9629-f4a4614c0d63.png)
+
 - The most profitable genre is Action,Adventure,Sci-Fi.
 <img width="677" alt="Most profitable genre" src="https://user-images.githubusercontent.com/128227310/232332825-3f612ca0-d2ca-41de-a493-854656d9de52.png">
+
 - The cateogory of action adventure movies are the most expensive to produce. Action,Adventure,Sci-Fi. being the most expensice action adventure movie to produce
 - Drama, comedy and thriller movies are the cheapest to produce.
 - There is weak positive correlation between budget and runtime. 
@@ -49,7 +51,7 @@ From the analysis, the a number of conclusions can be made based on the leading 
 - Universal studios and Fox studios have produced the most movies.
 
  ## Recommendations.
- Base on the business problem and the findings, I recommend that:
+ Based on the business problem and the findings, I recommend that:
 
 1.Microsoftstudios can choose to produce either Drama or Action,Adventure,Sci-Fi.
 
